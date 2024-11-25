@@ -2,6 +2,9 @@ public class variables {
 
     public static void main(String[] args) {
 
+
+
+
         String nombrePersona = "juan";
         char inicialNombre = 'j';
         int edadPersona = 20;
@@ -13,4 +16,7 @@ public class variables {
         System.out.println(precioDolares2);
 
     }
-}
+ }
+
+
+
